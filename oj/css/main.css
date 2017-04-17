@@ -1,0 +1,204 @@
+body{
+  display: block;
+  margin:0;
+}
+
+nav {
+  background-color: #fe7e00;
+  width: 100%;
+  height: 60px;
+  position: fixed;
+  color: white;
+}
+nav img {
+  height: 30px;
+  width: 30px;
+  padding: 5px;
+}
+
+nav > div > ul {
+  float: right;
+}
+
+nav > div > ul > li {
+  display: inline;
+  margin: 30px;
+  padding: 5px;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+}
+
+span {
+  font-weight: bold;
+}
+.search {
+  float: right;
+  top: 800px;
+  height: 45px;
+  position: absolute;
+  z-index: 1;
+  left: 80%;
+  top: 60px;
+}
+
+section img {
+  margin-top: 200px;
+  display: inline-block;
+}
+
+section p {
+    display: inline-block;
+    color: orange;
+    float: right;
+    position: relative;
+    margin: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+juice {
+  display: inline-block;
+  margin-top: 185px;
+}
+
+.tlkn {
+  color: orange;
+  display: inline-block;
+  font-size: 38px;
+}
+
+
+ button1 {
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+ button2 {
+   background-color: teal;
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+ }
+
+ .bigbuttons {
+   float: right;
+   margin-right:
+}
+
+footer {
+  background-color: #97C6C0;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {
+  margin: 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+div.bigoj{
+  background-color: orange;
+  width: 50%;
+}
+
+div
+
+nav {
+  background-color: orange;
+  width: 100%;
+}
+
+nav ul {
+  margin: 0;
+}
+nav ul li {
+  display: inline;
+  padding-right: 5px;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+div.top5 {
+  float: right;
+  background-color: orange;
+  width: 50%;
+}*/
+
+
+
+
+/*.navigation {
+  background-color: #FE7E00;
+  width: 100%;
+  height: 60px;
+  position: fixed;
+  color: white;
+}
+
+body {
+  display: block;
+  margin: 0px;
+}
+
+nav > div > ul {
+  float: right;
+}
+
+nav > div > ul > li {
+  display: inline;
+  margin: 30px;
+  padding: 12px;
+}
+
+li a {
+  color:white;
+  text-decoration: none;
+}*/
+
+/*nav .bigoj {
+  display: inline;
+  text-decoration: none;
+}*/
